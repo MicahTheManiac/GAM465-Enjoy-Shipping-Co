@@ -20,3 +20,7 @@ Itch.io: *add later*
 Feel free to use any source code. Feel free to make new content for the game such as new levels, objects, or new mechanics. Please do not use any assets outside the game. Please do not pass off any of my work as your own.
 
 This project was made in GameMaker using GML.
+
+## Paid-for & Downloaded Assets
+
+Silver is a font by Poppy Works and is licenened under [Creative Commons 4.0](https://creativecommons.org/licenses/by/4.0/).
