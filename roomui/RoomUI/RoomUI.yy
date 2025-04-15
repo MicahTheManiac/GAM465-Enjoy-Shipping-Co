@@ -1,0 +1,26 @@
+{
+  "$GMRoomUI":"",
+  "%Name":"RoomUI",
+  "children":[
+    {"$GMRUILayer":"v1","%Name":"UILayerLose","alignItems":2,"children":[
+        {"$GMRFlexPanel":"","%Name":"FlexPanel_1","alignItems":2,"children":[
+            {"$GMRSpriteGraphic":"v1","%Name":"graphic_7B77A284","animationSpeed":1.0,"colour":4294967295,"flexProperties":{"$InstanceFlexProps":"v1","anchor":0,"resourceType":"InstanceFlexProps",},"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_7B77A284","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_screen_fail","path":"sprites/spr_screen_fail/spr_screen_fail.yy",},"x":640.0,"y":360.0,},
+          ],"flexDirection":0,"height":{"unit":3,"value":720.0,},"justifyContent":1,"name":"FlexPanel_1","nodeColour":4294071624,"resourceType":"GMRFlexPanel","resourceVersion":"2.0","width":{"unit":3,"value":1280.0,},},
+      ],"flexDirection":0,"gridX":32,"gridY":32,"justifyContent":1,"name":"UILayerLose","nodeColour":4288606792,"resourceType":"GMRUILayer","resourceVersion":"2.0",},
+    {"$GMRUILayer":"v1","%Name":"UILayerWin","alignItems":2,"children":[
+        {"$GMRFlexPanel":"","%Name":"FlexPanel","alignItems":2,"children":[
+            {"$GMRSpriteGraphic":"v1","%Name":"graphic_3C5EBECC","animationSpeed":1.0,"colour":4294967295,"flexProperties":{"$InstanceFlexProps":"v1","anchor":0,"resourceType":"InstanceFlexProps",},"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_3C5EBECC","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_screen_win","path":"sprites/spr_screen_win/spr_screen_win.yy",},"x":640.0,"y":360.0,},
+          ],"flexDirection":0,"height":{"unit":3,"value":720.0,},"justifyContent":1,"name":"FlexPanel","nodeColour":4282936818,"resourceType":"GMRFlexPanel","resourceVersion":"2.0","width":{"unit":3,"value":1280.0,},},
+      ],"flexDirection":0,"gridX":32,"gridY":32,"justifyContent":1,"name":"UILayerWin","nodeColour":4294068432,"resourceType":"GMRUILayer","resourceVersion":"2.0",},
+  ],
+  "locked":false,
+  "name":"RoomUI",
+  "parent":{
+    "name":"Week2Game",
+    "path":"Week2Game.yyp",
+  },
+  "resourceType":"GMRoomUI",
+  "resourceVersion":"2.0",
+  "viewspaceChildren":[],
+  "visible":false,
+}
