@@ -23,4 +23,4 @@ This project was made in GameMaker using GML.
 
 ## Paid-for & Downloaded Assets
 
-Silver is a font by Poppy Works and is licenened under [Creative Commons 4.0](https://creativecommons.org/licenses/by/4.0/).
+Silver is a font by Poppy Works and is licenened under [Creative Commons 4.0 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
